@@ -25,4 +25,4 @@ I'm not picky, but I'll still pay very close attention to these:
 - [Extra challenge] Overall appearance and readability of your page
 
 ## How to submit
-Fork this repository on your profile and push you work on the newly created fork.
+Fork this repository on your profile and push you work on it.
